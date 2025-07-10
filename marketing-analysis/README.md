@@ -69,11 +69,11 @@ Interactive Dashboard
 
 # Data Sources
 
-# `olist_closed_deals_dataset.csv`
+ `olist_closed_deals_dataset.csv`
 - Includes sellers who **actually signed up** on Olist.
 - Key fields: `mql_id`, `seller_id`, `won_date`, `business_segment`, `lead_type`
 
-# `olist_marketing_qualified_leads_dataset.csv`
+ `olist_marketing_qualified_leads_dataset.csv`
 - Includes **all marketing leads** that showed interest (via email, ads, social, etc.)
 - Key fields: `mql_id`, `origin`, `first_contact_date`, `landing_page_id`
 
