@@ -1,4 +1,4 @@
-Welcome to this repository! 👋
+Welcome to this repository!
 
 This repo showcases my work as part of the **AWS Tech Alliance Program** at the **University of Illinois Chicago (UIC)**, where I contributed as an Analytics Engineer.
 
