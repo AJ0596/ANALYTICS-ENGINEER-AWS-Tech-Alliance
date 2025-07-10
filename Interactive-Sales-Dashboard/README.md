@@ -123,5 +123,9 @@ This solution delivered real business value for the Olist Sales team:
 - Logistics delays decreased by over 70% through better inventory visibility 
 - As a result, sellers using the dashboard improved their revenue by an average of 35%
 
+# Contact
 
+Feel free to reach out at:
+  Email: sneela7@uic.edu/saiajayneel@gmail.com
+  Ph: +1 312 792 5326
 
