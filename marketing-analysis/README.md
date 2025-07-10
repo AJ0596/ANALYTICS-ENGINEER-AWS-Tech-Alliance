@@ -30,6 +30,10 @@ To **analyze marketing channel performance** and help Olist:
 - Make **data-driven decisions** on where to allocate future budget
 - Realign GTM efforts for higher return on investment
 
+*NOTE:*
+
+**Visualizations were created in Amazon QuickSight to display closed deals, lead distribution, and conversion trends by channel. Visuals are not included here due to dashboard access being within a closed AWS environment.**
+
 ---
 
 # Tools & Technologies Used
