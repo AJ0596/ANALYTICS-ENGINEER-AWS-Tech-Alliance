@@ -109,4 +109,9 @@ Based on this analysis, we recommended:
 
 This strategy helped Olist reduce spending on low-performing channels by 33%, while increasing seller acquisition efficiency across email and social media by over 60%. 
 
+# Contact
+
+Feel free to reach out at:
+  Email: sneela7@uic.edu/saiajayneel@gmail.com
+  Ph: +1 312 792 5326
 
